@@ -55,7 +55,6 @@
   .profile_imagen {
     width: 100%;
     max-width: 400px;
-    transform: scaleX(-1);
   }
   .inicio {
     text-align: left;
