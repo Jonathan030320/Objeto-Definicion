@@ -13,6 +13,14 @@
   position: relative;
 }
 
+.profile_imagen {
+  width: 80%;
+  max-width: 300px;
+}
+
+.profile_imagen {
+  position: relative;
+}
 .inicio {
   text-align: center;
 }
